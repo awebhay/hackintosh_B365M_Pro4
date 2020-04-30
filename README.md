@@ -1,9 +1,12 @@
 # Hardware: #
 -   CPU: Intel i5 9400
 -   GPU: AMD RX470 4GB 
--   Motherboard: Gigabyte B360M-D3H
+-   Motherboard: Gigabyte B360M Pro 4 
 -   Ram Kingston 16gb 2666
 
+Boot ok with Mojave.
+Create boot using unibeast.
+Boot with USB 2.0 port, usb 3.0 not work.
 All things work well.
  
 Mainboard BIOS:
